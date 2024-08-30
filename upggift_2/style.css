@@ -1,0 +1,19 @@
+body{
+margin: 0;
+}
+header {
+    background-color: blueviolet;
+    padding-block: 2rem;
+    padding-inline: 1rem;
+}
+
+section {
+    background-color: chocolate;
+}
+
+.primary-navigation {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    color: 111;
+}
